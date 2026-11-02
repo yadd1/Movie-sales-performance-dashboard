@@ -27,6 +27,17 @@ Analyzes movie performance through revenue rankings, ticket sales, revenue contr
 
 Explores revenue and ticket sales across auditorium types, studios, showtimes, payment methods, and day categories.
 
+## Dashboard Preview
+
+### 1. Overview
+![Overview Dashboard](Movie_Sales_Analysis_Dashboard_page-0001.jpg)
+
+### 2. Movie Analysis
+![Movie Analysis Dashboard](Movie_Sales_Analysis_Dashboard_page-0002.jpg)
+
+### 3. Studio & Sales Analysis
+![Studio and Sales Analysis Dashboard](Movie_Sales_Analysis_Dashboard_page-0003.jpg)
+
 ## Key Business Insights
 
 - Weekend generated higher average daily revenue than Weekday.
@@ -43,8 +54,8 @@ Explores revenue and ticket sales across auditorium types, studios, showtimes, p
 
 ## Project Files
 
-The Power BI dashboard file (`.pbix`) is available in this repository.
+The complete Power BI (.pbix) file is included in this repository.
 
 ## Author
 
-Data Analytics Portfolio Project
+Ziyad Muhammad Zain Soti
